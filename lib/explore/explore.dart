@@ -23,7 +23,7 @@ class _NewsListState extends State<NewsList> {
 
   Future<void> fetchNews() async {
     final url = Uri.parse(
-        'https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=f471c84e766247bf81ea62006861eee0');
+        'https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=API-KEY');
 
     try {
       final response = await http.get(url);
