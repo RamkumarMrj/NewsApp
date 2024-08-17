@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601898998569",
+    "project_id": "sagasphere-2024",
+    "storage_bucket": "sagasphere-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601898998569:android:ec04708b406f930d313538",
+        "android_client_info": {
+          "package_name": "com.saga.sphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR-WToL-iktAVIIeTpdnSA6sor5JFFafI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
