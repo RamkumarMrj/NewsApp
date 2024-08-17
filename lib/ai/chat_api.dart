@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class ChatAPI {
-  static const String apiKey = 'AIzaSyCG-t1hNRxsMaSsKrGIoyAtWzODNanlp94';
+  static const String apiKey = 'API-KEY';
   static const String apiUrl = 'https://gemini.googleapis.com/v1/messages:sendMessage';
 
   static Future<String> sendMessage(String message) async {
